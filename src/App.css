@@ -1,0 +1,31 @@
+.homePage {
+    text-align: start;
+    display:flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+h1, h3, h4 {
+    font-family: 'REM', sans-serif;
+    text-transform: capitalize;
+    color: rgb(106, 61, 9)
+}
+
+.navbar {
+    background-color: rgb(19, 138, 138);
+    padding-left: 38.1%;
+    padding-right: 38.1%;
+}
+
+p {
+    font-family: 'REM', sans-serif;
+    text-transform: capitalize;
+    color: rgb(39, 22, 4)
+}
+
+.beerDetails {
+    width:700px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
